@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.exe
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.deps.json
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.dll
+D:\education\PatikaPratikler\switch-case\bin\Debug\net5.0\switch-case.pdb
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.dll
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\refint\switch-case.dll
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.pdb
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
+D:\education\PatikaPratikler\switch-case\obj\Debug\net5.0\ref\switch-case.dll
